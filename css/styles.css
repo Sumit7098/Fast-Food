@@ -1,0 +1,77 @@
+#title{
+  color: #fff;
+
+}
+
+#Pricing{
+  padding: 10rem 15rem
+}
+
+.container-fluid{
+  margin: 10%;
+}
+
+.navi{
+  background-color: #000000;
+}
+
+.Welcome{
+  color: white;
+}
+
+.well{
+  position: absolute;
+  top: 200px;
+  left: 100px;
+  width: 31.25rem;
+  text-align: center;
+}
+
+.photo{
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+  float: right;
+  margin: 2rem;
+}
+
+.okay{
+  margin-right: 20px;
+}
+
+.Chowmein{
+  padding: 10rem 0 0;
+}
+
+#Testimonials{
+  background-color: #000000;
+  text-align: center;
+}
+
+.whit{
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimage {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 10%;
+}
+
+@media(max-width: 1000px) {
+  .well{
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    left: 3%;
+  }
+  .Welcome{
+    font-size: 150%;
+  }
+}
